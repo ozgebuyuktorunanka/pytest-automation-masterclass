@@ -1,11 +1,23 @@
 # 🧪 pytest-automation-masterclass
-
 A hands-on Python test automation project built from scratch — covering Unit, API, and E2E testing with a production-grade architecture.
 
+## 🔍 About
+This repository is a structured, phase-based deep dive into Python test 
+automation architecture. Built on top of a mock FastAPI application, it 
+demonstrates how to design a scalable test suite from scratch — following 
+the test pyramid principle with clear separation between unit, API, and 
+E2E layers.
+
+Each phase introduces a new layer of complexity: from pytest fundamentals 
+and fixture scoping, to Page Object Model implementation with Playwright, 
+Allure-based reporting pipelines, and GitHub Actions CI/CD integration.
+
+Designed for engineers transitioning from JavaScript/Playwright ecosystems 
+who want to build production-ready Python test infrastructure with best 
+practices baked in from day one.
+
 > Built as a learning repo for developers transitioning from JavaScript/Playwright to Python test automation.
-
 ---
-
 ## 🗺️ Roadmap
 
 | Phase | Topic | Status |
